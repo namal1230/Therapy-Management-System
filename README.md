@@ -1,4 +1,4 @@
-# ORM Project - Therapy Management System
+# Therapy Management System
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
